@@ -23,4 +23,4 @@ cargo run
 > MultiThread
 
 ## [-] Preview
-![index]([https://raw.githubusercontent.com/MrG3P5/AnonSurf-GUI/main/Screenshot_2023-07-17_15_52_16(1).png](https://raw.githubusercontent.com/MrG3P5/ReverseIP-Rust/main/Screenshot_2023-08-10_23_53_24.png)https://raw.githubusercontent.com/MrG3P5/ReverseIP-Rust/main/Screenshot_2023-08-10_23_53_24.png)
+![index](https://raw.githubusercontent.com/MrG3P5/ReverseIP-Rust/main/Screenshot_2023-08-10_23_53_24.png)
